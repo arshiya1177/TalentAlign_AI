@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+pdfplumber
+nltk
+numpy
+scikit-learn
+openai
+plotly
+fpdf
